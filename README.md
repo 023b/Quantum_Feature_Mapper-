@@ -1,4 +1,5 @@
-# QuantumNeuralMix
+# Quantum Feature Mapper
+
 
 ## Overview
 
